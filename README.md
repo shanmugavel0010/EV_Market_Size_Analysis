@@ -26,7 +26,7 @@ EV_Market_Analysis/
 ├── 📊 Market_Size_Analyze.xlsx   # Raw dataset
 ├── 📄 README.md                  # Project documentation
 │
-├── 📁 outputs/
+├── 📁 DASHBOARD/
 │   ├── charts/
 │   │   ├── ev_registrations_by_year.png
 │   │   ├── electric_range_histogram.png
